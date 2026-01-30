@@ -1,0 +1,13 @@
+
+> ọmọ-tèmi@1.0.0 dev
+> vite
+
+
+  VITE v5.4.21  ready in 553 ms
+
+  ➜  Local:   http://localhost:1111/
+  ➜  Network: use --host to expose
+
+warn - The `content` option in your Tailwind CSS configuration is missing or empty.
+warn - Configure your content sources or your generated CSS will be missing styles.
+warn - https://tailwindcss.com/docs/content-configuration
